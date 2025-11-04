@@ -1,18 +1,18 @@
 # 👋 Hi, I'm Fares!
-
-🚀 I’m a Fullstack Developper at Mazars, passionate about turning ideas into intelligent products.
-
-💡 I love working with:
-**React • TypeScript • Firebase • Azure • AI • Computer Vision**
-
-🧠 Currently building: 
-- **ze-feedback**, an NPM package to gather real users feedback and get bug reports in real time.
-- **mycro-service boilerplate**, a basic fullstack boilerplate with a Next.JS Frontend, a Poetry Backend and a PostgreSQL and more to come ..
-
-🔭 Currently Exploring
-- Fintech
+I’m a Fullstack Developper at Mazars, passionate about turning ideas into intelligent products.
 
 👯 Wanna Collab?
 Contact me if you need any help with **Software Engineering, Frontend, Backend, Architecture or Computer Vision**!
-  
-📬 Reach me on [LinkedIn](www.linkedin.com/in/fares-aouani-cherif-9a110219a)
+
+📬 Important Links 
+- [LinkedIn](www.linkedin.com/in/fares-aouani-cherif-9a110219a)
+- [Portfolio](portfolio.ferez.cloud)
+- [Docs](docs.ferez.cloud)
+- [Mycro-services Boilerplate](app.ferez.cloud)
+
+🚀 Be one of the first to join my newly created [discord community]()
+  _and more to come ..._
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
