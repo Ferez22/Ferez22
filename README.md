@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Fares!
 
-<!--
-**Ferez22/Ferez22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I’m a Fullstack Developper at Mazars, passionate about turning ideas into intelligent products.
 
-Here are some ideas to get you started:
+💡 I love working with:
+**React • TypeScript • Firebase • Azure • AI • Computer Vision**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Currently building: 
+- **ze-feedback**, an NPM package to gather real users feedback and get bug reports in real time.
+- **mycro-service boilerplate**, a basic fullstack boilerplate with a Next.JS Frontend, a Poetry Backend and a PostgreSQL and more to come ..
+
+🔭 Currently Exploring
+- Fintech
+
+👯 Wanna Collab?
+Contact me if you need any help with **Software Engineering, Frontend, Backend, Architecture or Computer Vision**!
+  
+📬 Reach me on [LinkedIn](www.linkedin.com/in/fares-aouani-cherif-9a110219a)
