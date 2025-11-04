@@ -1,20 +1,29 @@
 # 👋 Hi, I'm Fares!
-I’m a Fullstack Developper @ Mazars, Building AI-powered apps | React, Azure
 
-👯 Wanna Collab?
-Contact me if you need any help with **Software Engineering, Frontend, Backend, Architecture or Computer Vision**!
+I’m a **Fullstack Developer @ Mazars**, building **AI-powered apps** using **React** and **Azure** ☁️
 
-📬 Important Links 
-- [LinkedIn](www.linkedin.com/in/fares-aouani-cherif-9a110219a)
-- [Portfolio](portfolio.ferez.cloud)
-- [Docs](docs.ferez.cloud)
-- [Mycro-services Boilerplate](app.ferez.cloud)
+---
 
-🚀 Be one of the first to join my newly created [discord community]()
+### 👯 Wanna Collab?
+Contact me if you need any help with  
+**Software Engineering, Frontend, Backend, Architecture, or Computer Vision**!
+
+---
+
+### 📬 Important Links 
+- [LinkedIn](https://www.linkedin.com/in/fares-aouani-cherif-9a110219a)
+- [Portfolio](https://portfolio.ferez.cloud)
+- [Docs](https://docs.ferez.cloud)
+- [Mycro-services Boilerplate](https://app.ferez.cloud)
+
+🚀 Be one of the first to join my newly created [Discord community](#)
 <br />
 _and more to come ..._
 
+---
+
 ### 🧰 Tech Stack
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
@@ -27,6 +36,12 @@ _and more to come ..._
 ---
 
 ### 📈 GitHub Stats
+
+![Fares's GitHub stats](https://github-readme-stats.vercel.app/api?username=farescherif&show_icons=true&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=farescherif&theme=radical&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farescherif&layout=compact&theme=radical)
 ![Profile Trophy](https://github-profile-trophy.vercel.app/?username=farescherif&theme=radical&no-bg=true&margin-w=15)
+
+---
+
+✨ _“Keep building. The future is shaped by those who create.”_
