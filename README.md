@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Fares!
 
-I’m a **Fullstack Developer @ Mazars**, building **AI-powered apps** using **React** and **Azure** ☁️
+I’m a **Software Engineer @ Mazars**, building **AI-powered apps** using **React** and **Azure** ☁️
 
 ---
 
@@ -12,7 +12,7 @@ Contact me if you need any help with
 
 ### 📬 Important Links 
 - [LinkedIn](https://www.linkedin.com/in/fares-aouani-cherif-9a110219a)
-- [Portfolio](https://portfolio.ferez.cloud)
+- [Portfolio](https://faresaouani.com)
 - [Docs](https://docs.ferez.cloud)
 - [Mycro-services Boilerplate](https://app.ferez.cloud)
 
